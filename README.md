@@ -1,4 +1,4 @@
-![image](https://github.com/RutujaPatil26/Powerbi_Project/assets/172021951/2b9365e4-a604-4a30-bbb1-4c72690addd9)# SuperStore Sales Analysis
+# SuperStore Sales Analysis
 ## Overview
 The Super Store Sales Report is a comprehensive analysis of sales data for a large retail superstore, created using Power BI. The purpose of this report is to provide a detailed overview of the store's sales performance, customer behavior, and operational efficiency. By leveraging a variety of visualizations, this report offers insights that help in making informed business decisions.
 ## Data Source
