@@ -13,6 +13,8 @@ The data presented in this dashboard comes from the Super Store sales database. 
 - Payment Method Analysis: Pie charts detailing sales distribution by payment methods (COD, Online, Cards) to optimize payment options.
 - Forecasting: Line charts including a 15-day sales forecast to assist in future planning and inventory management.
 ## Visualization
+1. Sales by Sub-Category: This chart displays the sales figures for different sub-categories such as Phones. Chairs. Binders, and Storage. It helps in understanding which sub-categories are performing well in terms of sales.
 ![Screenshot (12)](https://github.com/RutujaPatil26/Powerbi_Project/assets/172021951/9416bc16-50aa-4c77-bc32-1f52f2d92e2b)
+
 
 
