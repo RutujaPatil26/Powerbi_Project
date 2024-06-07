@@ -40,3 +40,7 @@ The data presented in this dashboard comes from the Super Store sales database. 
 6. Sales by Category: This chart displays the sales figures by product categories such as Office, Technology. and Furniture. It helps in identifying which product categories are generating the most sales
 
 ![Screenshot (16)](https://github.com/RutujaPatil26/Powerbi_Project/assets/172021951/4e56ea55-973c-4e5e-bf71-db1a57726e02)
+
+7. Sales by Region: This chart shows the distribution of sales by geographical regions: West. East, South, and Central. It is useful for regional sales analysis.
+
+![2024-06-07 (3)](https://github.com/RutujaPatil26/Powerbi_Project/assets/172021951/053f7a2e-83ee-44f8-9f1d-31d605786f43)
