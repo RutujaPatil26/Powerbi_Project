@@ -15,7 +15,7 @@ The data presented in this dashboard comes from the Super Store sales database. 
 ## Visualization
 1. Sales by Sub-Category: This chart displays the sales figures for different sub-categories such as Phones. Chairs. Binders, and Storage. It helps in understanding which sub-categories are performing well in terms of sales.
 
-![Screenshot (12)](https://github.com/RutujaPatil26/Powerbi_Project/assets/172021951/ddfcb041-1e5b-4308-95fc-1ad403b33193)
+![Screenshot (12)](https://github.com/RutujaPatil26/Powerbi_Project/assets/172021951/dbd0267f-303e-4b33-ba1e-d618ac41bd0e)
 
 2.Sales by Ship Mode: This chart shows the distribution of sales across different shipping modes: Standard Class, Second Class, First Class, and Same Day. It provides insights into customer preferences for shipping methods.
 
