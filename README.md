@@ -52,3 +52,7 @@ The data presented in this dashboard comes from the Super Store sales database. 
 10. Sum of Sales by State: This chart displays the sales figures for top-performing states such as California. New York, Texas, and ot key states that dr It helps in identifying nost sales.
 
 ![2024-06-07 (10)](https://github.com/RutujaPatil26/Powerbi_Project/assets/172021951/6cd0df51-a7ee-4c68-b3f2-b3f304da511a)
+
+## SuperStore Sales Analysis Report
+
+![2024-06-07 (4)](https://github.com/RutujaPatil26/Powerbi_Project/assets/172021951/1690a262-352d-4459-9cbc-b8aa10feb81e)
