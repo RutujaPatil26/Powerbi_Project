@@ -25,26 +25,30 @@ The data presented in this dashboard comes from the Super Store sales database. 
 
 ![2024-06-07](https://github.com/RutujaPatil26/Powerbi_Project/assets/172021951/c36aa41a-03ab-4d5c-bda3-405e18fd8d07)
 
-3. Profit by Month: This chart displays the monthly profit figures for the years 2019 and 2020. It helps in analyzing the profitability trends over time.
+4. Profit by Month: This chart displays the monthly profit figures for the years 2019 and 2020. It helps in analyzing the profitability trends over time.
 
 ![Screenshot (14)](https://github.com/RutujaPatil26/Powerbi_Project/assets/172021951/db1923ae-c6ec-4aca-8453-697f0ded1078)
 
-4. Sales by Segment: This chart shows the sales distribution among different customer segments: Consumer. Corporate, and Home Office. It aids in understanding which segments contribute most to the sales.
+5. Sales by Segment: This chart shows the sales distribution among different customer segments: Consumer. Corporate, and Home Office. It aids in understanding which segments contribute most to the sales.
 
 ![2024-06-07 (1)](https://github.com/RutujaPatil26/Powerbi_Project/assets/172021951/878d5622-8345-4ffb-bb41-d74344218c04)
 
-5. Sales by Payment Mode: This chart illustrates the distribution of sales across different payment modes: COD (Cash on Delivery). Online. and Cards. It provides insights into customer payment preferences.
+6. Sales by Payment Mode: This chart illustrates the distribution of sales across different payment modes: COD (Cash on Delivery). Online. and Cards. It provides insights into customer payment preferences.
 
 ![Screenshot (15)](https://github.com/RutujaPatil26/Powerbi_Project/assets/172021951/159ad3fa-dd51-48d7-990f-8dd6c7b6cc82)
 
-6. Sales by Category: This chart displays the sales figures by product categories such as Office, Technology. and Furniture. It helps in identifying which product categories are generating the most sales
+7. Sales by Category: This chart displays the sales figures by product categories such as Office, Technology. and Furniture. It helps in identifying which product categories are generating the most sales
 
 ![Screenshot (16)](https://github.com/RutujaPatil26/Powerbi_Project/assets/172021951/4e56ea55-973c-4e5e-bf71-db1a57726e02)
 
-7. Sales by Region: This chart shows the distribution of sales by geographical regions: West. East, South, and Central. It is useful for regional sales analysis.
+8. Sales by Region: This chart shows the distribution of sales by geographical regions: West. East, South, and Central. It is useful for regional sales analysis.
 
 ![2024-06-07 (3)](https://github.com/RutujaPatil26/Powerbi_Project/assets/172021951/053f7a2e-83ee-44f8-9f1d-31d605786f43)
 
-8. Sales Forecast - 15 Days: This chart provides a forecast of sales for a 15-day period. It helps in predicting future sales trends and planning accordingly.
+9. Sales Forecast - 15 Days: This chart provides a forecast of sales for a 15-day period. It helps in predicting future sales trends and planning accordingly.
 
 ![Screenshot (17)](https://github.com/RutujaPatil26/Powerbi_Project/assets/172021951/16dba416-5fc9-443d-8c21-8f238d91608b)
+
+10. Sum of Sales by State: This chart displays the sales figures for top-performing states such as California. New York, Texas, and ot key states that dr It helps in identifying nost sales.
+
+![2024-06-07 (10)](https://github.com/RutujaPatil26/Powerbi_Project/assets/172021951/6cd0df51-a7ee-4c68-b3f2-b3f304da511a)
