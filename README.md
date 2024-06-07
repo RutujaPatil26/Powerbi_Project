@@ -36,3 +36,7 @@ The data presented in this dashboard comes from the Super Store sales database. 
 5. Sales by Payment Mode: This chart illustrates the distribution of sales across different payment modes: COD (Cash on Delivery). Online. and Cards. It provides insights into customer payment preferences.
 
 ![Screenshot (15)](https://github.com/RutujaPatil26/Powerbi_Project/assets/172021951/159ad3fa-dd51-48d7-990f-8dd6c7b6cc82)
+
+6. Sales by Category: This chart displays the sales figures by product categories such as Office, Technology. and Furniture. It helps in identifying which product categories are generating the most sales
+
+![Screenshot (16)](https://github.com/RutujaPatil26/Powerbi_Project/assets/172021951/4e56ea55-973c-4e5e-bf71-db1a57726e02)
