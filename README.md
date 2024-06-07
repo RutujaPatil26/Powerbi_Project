@@ -24,3 +24,8 @@ The data presented in this dashboard comes from the Super Store sales database. 
 3.Sales by Month: This chart presents the monthly sales figures for the years 2019 and 2020. It is useful for identifying sales trends and seasonal patterns.
 
 ![2024-06-07](https://github.com/RutujaPatil26/Powerbi_Project/assets/172021951/c36aa41a-03ab-4d5c-bda3-405e18fd8d07)
+
+3.Profit by Month: This chart displays the monthly profit figures for the years 2019 and 2020. It helps in analyzing the profitability trends over time.
+
+![Screenshot (14)](https://github.com/RutujaPatil26/Powerbi_Project/assets/172021951/db1923ae-c6ec-4aca-8453-697f0ded1078)
+
