@@ -20,3 +20,7 @@ The data presented in this dashboard comes from the Super Store sales database. 
 2.Sales by Ship Mode: This chart shows the distribution of sales across different shipping modes: Standard Class, Second Class, First Class, and Same Day. It provides insights into customer preferences for shipping methods.
 
 ![Screenshot (11)](https://github.com/RutujaPatil26/Powerbi_Project/assets/172021951/6d5ff66c-5d8b-4cf1-a32c-4a0aaf80d377)
+
+3.Sales by Month: This chart presents the monthly sales figures for the years 2019 and 2020. It is useful for identifying sales trends and seasonal patterns.
+
+![2024-06-07](https://github.com/RutujaPatil26/Powerbi_Project/assets/172021951/c36aa41a-03ab-4d5c-bda3-405e18fd8d07)
