@@ -29,3 +29,6 @@ The data presented in this dashboard comes from the Super Store sales database. 
 
 ![Screenshot (14)](https://github.com/RutujaPatil26/Powerbi_Project/assets/172021951/db1923ae-c6ec-4aca-8453-697f0ded1078)
 
+Sales by Segment: This chart shows the sales distribution among different customer segments: Consumer. Corporate, and Home Office. It aids in understanding which segments contribute most to the sales.
+
+![2024-06-07 (1)](https://github.com/RutujaPatil26/Powerbi_Project/assets/172021951/878d5622-8345-4ffb-bb41-d74344218c04)
