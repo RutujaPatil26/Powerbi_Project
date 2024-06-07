@@ -44,3 +44,7 @@ The data presented in this dashboard comes from the Super Store sales database. 
 7. Sales by Region: This chart shows the distribution of sales by geographical regions: West. East, South, and Central. It is useful for regional sales analysis.
 
 ![2024-06-07 (3)](https://github.com/RutujaPatil26/Powerbi_Project/assets/172021951/053f7a2e-83ee-44f8-9f1d-31d605786f43)
+
+8. Sales Forecast - 15 Days: This chart provides a forecast of sales for a 15-day period. It helps in predicting future sales trends and planning accordingly.
+
+![Screenshot (17)](https://github.com/RutujaPatil26/Powerbi_Project/assets/172021951/16dba416-5fc9-443d-8c21-8f238d91608b)
